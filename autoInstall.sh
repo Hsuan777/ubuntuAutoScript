@@ -17,3 +17,6 @@ sudo service docker start
 
 # openssh
 sudo apt-get install openssh-server
+
+# vim 
+sudo apt-get install vim
